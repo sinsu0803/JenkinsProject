@@ -1,0 +1,2 @@
+# JenkinsProject
+cicd practices
